@@ -1,4 +1,4 @@
-**USsER DEMO**
+# **USsER DEMO**
 This repository contains examples input files to demonstrate "real time" phylogenetics using the UCSC SARS-COV-2 genome browser. This function is available from XXX. Specifically, we developed and integrated a program, Ultrafast Sample placement on Existing tRees (UShER, available from https://github.com/yatisht/strain_phylogenetics) to place user uploaded sequences onto a global phylogeny of more than 40,000 full length, high coverage, SARS-COV-2 sequences. This approach will be thouroughly validated and described in more detail in a forthcoming manuscript. 
 
 **#Approach**
