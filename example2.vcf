@@ -1,5 +1,5 @@
 ##fileformat=VCFv4.2				
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	CA-UCSC-1/2020|20-07-15|Hypothetical_Farms_1	CA-UCSC-2/2020|20-07-15|Hypothetical_Farms_2	CA-UCSC-3/2020|20-07-22|Hypothetical_Farms_3	CA-UCSC-4/2020|20-07-18|Hypothetical_Farms_4	CA-UCSC-5/2020|20-08-05|Hypothetical_Farms_5	CA-UCSC-6/2020|20-07-25|Hypothetical_Farms_6	CA-UCSC-7/2020|20-07-25|Hypothetical_Farms_7	CA-UCSC-8/2020|20-07-25|Hypothetical_Farms_8	CA-UCSC-9/2020|20-07-25|Hypothetical_Farms_9	CA-UCSC-10/2020|20-08-05|Hypothetical_Farms_10
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	CA-UCSC-1/2020|20-07-15|Hypothetical_Farm_1	CA-UCSC-2/2020|20-07-15|Hypothetical_Farm_2	CA-UCSC-3/2020|20-07-22|Hypothetical_Farm_3	CA-UCSC-4/2020|20-07-18|Hypothetical_Farm_4	CA-UCSC-5/2020|20-08-05|Hypothetical_Farm_5	CA-UCSC-6/2020|20-07-25|Hypothetical_Farm_6	CA-UCSC-7/2020|20-07-25|Hypothetical_Farm_7	CA-UCSC-8/2020|20-07-25|Hypothetical_Farm_8	CA-UCSC-9/2020|20-07-25|Hypothetical_Farm_9	CA-UCSC-10/2020|20-08-05|Hypothetical_Farm_10
 NC_045512v2	1440	G1440A	G	A	.	.	AC=0,10;AN=10	GT	1	1	1	1	1	1	1	1	1	1
 NC_045512v2	2891	G2891A	G	A	.	.	AC=0,10;AN=10	GT	1	1	1	1	1	1	1	1	1	1
 NC_045512v2	3332	C23039T	A	G	.	.	AC=8,2;AN=10	GT	0	0	0	0	1	0	0	0	0	1
